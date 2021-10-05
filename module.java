@@ -7,3 +7,8 @@ sub(int a, int b){
 mul(int a, int b){
 	return a*b;
 }
+mul(int a, int b){
+	return a*b;
+}
+
+
