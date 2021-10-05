@@ -2,4 +2,6 @@ merge conflict!!
 omg
 merge conflict!!
 
+switch switchmerge conflict!!
+
 switch switch
