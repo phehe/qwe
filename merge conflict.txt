@@ -6,3 +6,7 @@ switch switchmerge conflict!!
 
 switch switch
 @@@@@@@#!$!@$
+
+void join(){
+	Member member;
+}
